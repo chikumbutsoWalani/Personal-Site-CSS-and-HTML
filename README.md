@@ -32,7 +32,7 @@
 
 - ✅ Valid HTML using semantic elements
 - 🎨 CSS is custom, cleanly organized, and commented (add comments to explain key sections)
-- 📱 Responsive design using Flexbox or Grid
+- 📱 Responsive design using Flexbox or Grid or @media
 - ♿ Accessibility with `alt` tags and readable fonts
 - 🎭 Creativity: at least one unique visual feature (animation, theme, etc.)
 
